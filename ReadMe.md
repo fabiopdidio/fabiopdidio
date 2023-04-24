@@ -1,4 +1,3 @@
-# 💫 About Me:
 Olá! Eu sou o Fábio<br>🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas;<br>🌱 Fazendo também curso técnico de Desenvolvimento Full Stack;<br>📝 Realizando diversos cursos de Python;<br>😁 Além de estudar programação também sou Nutricionista Esportivo.
 
 
