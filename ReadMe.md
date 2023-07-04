@@ -1,5 +1,8 @@
-### Sobre mim:
-👨‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas;<br>⌨️ Fazendo também curso técnico de Desenvolvimento Full Stack;<br>📝 Realizando diversos cursos de qualificação profissional;<br>😁 Antes de estudar programação fui Nutricionista Esportivo.
+### 🤵🏻 Sobre mim:
+* Atualmente estou cursando Análise e Desenvolvimento de Sistemas;
+* Fazendo também curso técnico de Desenvolvimento Full Stack;
+* Realizando diversos cursos de qualificação profissional;
+* Antes de estudar programação fui Nutricionista Esportivo.
 
 
 ### 🌐 Redes sociais: 
