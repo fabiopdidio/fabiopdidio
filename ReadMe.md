@@ -4,7 +4,7 @@
 * Realizando diversos cursos de qualificação profissional;
 * Antes de estudar programação fui Nutricionista Esportivo.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabiopdidio&bg_color=000000&color=59ff00&line=59ff00&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabiopdidio&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### 🌐 Redes sociais: 
