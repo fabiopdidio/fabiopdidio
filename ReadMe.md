@@ -8,9 +8,9 @@
 
 <div>
 <a href="https://github.com/fabiopdidio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?fabiopdidio&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopdidio&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiopdidio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div
+</div>
 
 ### 🌐 Redes sociais: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fabiopdidio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/fabiopdidio) 
