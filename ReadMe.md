@@ -6,7 +6,7 @@
 
 <div>
 <a href="https://github.com/fabiopdidio">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopdidio&layout=compact&langs_count=7&theme=dracula"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopdidio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### 🌐 Redes sociais: 
