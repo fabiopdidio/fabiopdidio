@@ -1,7 +1,7 @@
 ### 🤵🏻 Sobre mim:
-* Atualmente estou cursando Análise e Desenvolvimento de Sistemas;
-* Fazendo também curso técnico de Desenvolvimento Full Stack;
-* Realizando diversos cursos de qualificação profissional;
+* Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3/5);
+* Realizando também curso de qualificação profissional em Desenvolvimento Full Stack;
+* Participando do curso DEVinHouse do SENAI;
 * Antes de estudar programação fui Nutricionista Esportivo.
 
 <div>
