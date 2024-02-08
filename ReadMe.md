@@ -1,5 +1,5 @@
 ### 🤵🏻 Sobre mim:
-* Oi! Meu nome é Fábio, tenho 26 anos e sou de Porto Alegre/RS;
+* Meu nome é Fábio, tenho 26 anos e sou de Porto Alegre/RS;
 * Atualmente estou cursando Análise e Desenvolvimento de Sistemas (4/5);
 * Tenho qualificação profissional em Desenvolvimento Full Stack;
 * Participando do curso DEVinHouse do SENAI;
